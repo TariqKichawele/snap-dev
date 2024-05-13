@@ -1,5 +1,6 @@
 import mongoose, { Model, PopulatedDoc, Schema, Types } from "mongoose";
 import { IUserDocument } from "./userModel";
+import { Key } from "react";
 
 export interface IMessage {
     sender: Types.ObjectId | PopulatedDoc<IUserDocument>;
@@ -10,6 +11,7 @@ export interface IMessage {
 }
 
 export interface IMessageDocument extends IMessage, Document {
+    _id: Key | null | undefined;
     toJSON(): any;
     createdAt: Date;
     updatedAt: Date;
