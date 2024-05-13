@@ -1,0 +1,54 @@
+{
+  "node": {
+    "17846f560ab4fd262fe586073bbf30ded11f34ac": {
+      "workers": {
+        "app/chat/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Ftariqkichawele%2FDesktop%2Fsnap-dev%2Flib%2Faction.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22authAction%22%2C%22%24%24ACTION_0%22%2C%22deleteChatAction%22%2C%22logoutAction%22%2C%22sendMessageAction%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/chat/[id]/page": "rsc"
+      }
+    },
+    "4baad29fefc37b9810ddd0d841ca51d90866cabe": {
+      "workers": {
+        "app/chat/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Ftariqkichawele%2FDesktop%2Fsnap-dev%2Flib%2Faction.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22authAction%22%2C%22%24%24ACTION_0%22%2C%22deleteChatAction%22%2C%22logoutAction%22%2C%22sendMessageAction%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/chat/[id]/page": "rsc"
+      }
+    },
+    "6543267ab86ebdb87d61dbc55058b41afed6f1e4": {
+      "workers": {
+        "app/chat/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Ftariqkichawele%2FDesktop%2Fsnap-dev%2Flib%2Faction.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22authAction%22%2C%22%24%24ACTION_0%22%2C%22deleteChatAction%22%2C%22logoutAction%22%2C%22sendMessageAction%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/chat/[id]/page": "rsc"
+      }
+    },
+    "8aa1561a6328dcebc938b0aec90e9c9d57c23700": {
+      "workers": {
+        "app/chat/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Ftariqkichawele%2FDesktop%2Fsnap-dev%2Flib%2Faction.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22authAction%22%2C%22%24%24ACTION_0%22%2C%22deleteChatAction%22%2C%22logoutAction%22%2C%22sendMessageAction%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/chat/[id]/page": "rsc"
+      }
+    },
+    "c60a2e4fb3137a22e0066966c4285baaa3855dbe": {
+      "workers": {
+        "app/chat/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Ftariqkichawele%2FDesktop%2Fsnap-dev%2Flib%2Faction.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22authAction%22%2C%22%24%24ACTION_0%22%2C%22deleteChatAction%22%2C%22logoutAction%22%2C%22sendMessageAction%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/chat/[id]/page": "rsc"
+      }
+    },
+    "c7a9caa7900cbe9d4db55c86c4dfb12dd0616306": {
+      "workers": {
+        "app/chat/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Ftariqkichawele%2FDesktop%2Fsnap-dev%2Flib%2Faction.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22authAction%22%2C%22%24%24ACTION_0%22%2C%22deleteChatAction%22%2C%22logoutAction%22%2C%22sendMessageAction%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/chat/[id]/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "6d8JH8KdK4CY7dUQix2wri9DLcaz7UO7MkzabbqZsDE="
+}
