@@ -9,7 +9,7 @@ import { useRouter } from 'next/navigation';
 import { sendMessageAction } from '@/lib/action';
 
 type SelectUserDialogProps = {
-    selectedFile: string | undefined;
+    selectedFile: string;
     onClose: () => void;
     onPrev: () => void;
 }
